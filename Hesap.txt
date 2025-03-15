@@ -1,0 +1,3 @@
+send /login wowowo
+wait 3 seconds
+send /skyblock
