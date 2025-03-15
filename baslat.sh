@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HesapAdi="UnioGuvenlik01"
+HesapAdi="kaanteck"
 
 while true ; do
 echo "Başlatmayı engellemek için CTRL + C yapın."
@@ -11,5 +11,5 @@ sleep 1
 echo "UnioCraft 1 saniye içinde açılıyor..."
 sleep 1
 
-/usr/bin/mono MinecraftClient.exe $HesapAdi -
+MinecraftClient.exe $HesapAdi -
 done
